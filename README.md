@@ -5,8 +5,6 @@ In development stage
 
 Requirements:
 
-Root supported device 
-
 Terminal EX: Termux or Terminal Android(Native)
 
 Need Clang or MinGW
